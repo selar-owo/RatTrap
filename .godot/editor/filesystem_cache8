@@ -1,0 +1,51 @@
+fc8a56933c4b1c8d796fdb8f7a9f9475
+::res://::1707223763
+default_bus_layout.tres::AudioBusLayout::8158888588231566169::1707204570::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1698557594::0::1::::<><>::
+icon.svg::CompressedTexture2D::5133762215969616461::1698557594::1698655395::1::::<><>::
+README.md::TextFile::-1::1698557594::0::1::::<><>::
+::res://android/::1698557594
+::res://scenes/::1707207886
+FailSafe.tscn::PackedScene::4074894443170700143::1698557594::0::1::::<><>::res://scripts/fail_safe.gd
+main.tscn::PackedScene::8369388443254172386::1707207461::0::1::::<><>::res://scripts/main.gd<>uid://dsn7txa8s7k7a::::res://scenes/song.tscn<>uid://o3pxsbl4x4v1::::res://scenes/right_click_menu.tscn<>uid://bs28oppkt5vl0::::res://sprites/rounded.png<>uid://c6325pqh5g5ek::::res://sounds/y2mate.com - Main Menu  Mario Kart Wii.mp3<>uid://bwt0jsvcu0mys::::res://sprites/RatTrapIcon.png<>res://scripts/RenameMenu.gd<>uid://cq0466kr7x2gh::::res://sprites/logos/RatTrapVertical.png<>res://scripts/VScrollBar.gd<>res://scripts/ChangeFolder.gd
+right_click_menu.tscn::PackedScene::1041399163702025344::1707207886::0::1::::<><>::res://scripts/right_click_menu.gd
+song.tscn::PackedScene::8451476230781129768::1698557594::0::1::::<><>::res://scripts/song.gd<>uid://bs28oppkt5vl0
+::res://scripts/::1707207461
+ChangeFolder.gd::GDScript::-1::1707207461::0::1::::<>Panel<>::
+fail_safe.gd::GDScript::-1::1698557594::0::1::::<>Control<>::
+find_songs.gd::GDScript::-1::1698557594::0::1::::<>Node<>::
+Globals.gd::GDScript::-1::1698557594::0::1::::<>Node<>::
+main.gd::GDScript::-1::1707207461::0::1::::<>Control<>::
+RenameMenu.gd::GDScript::-1::1707207461::0::1::::<>Panel<>::
+right_click_menu.gd::GDScript::-1::1698557594::0::1::::<>Control<>::
+settings_file.gd::GDScript::-1::1698557594::0::1::::<>Node<>::
+song.gd::GDScript::-1::1698557594::0::1::::<>Button<>::
+VScrollBar.gd::GDScript::-1::1707207461::0::1::::<>VScrollBar<>::
+::res://sounds/::1698655395
+y2mate.com - Main Menu  Mario Kart Wii.mp3::AudioStreamMP3::7008191842826252666::1698557594::1698655395::1::::<><>::
+::res://sprites/::1698655395
+FolderIcon.png::CompressedTexture2D::1721109494184798131::1698557594::1698655395::1::::<><>::
+jus the note-export.png::CompressedTexture2D::5690928140561875455::1698557594::1698655395::1::::<><>::
+jus the note.png::CompressedTexture2D::5216376584642493836::1698557594::1698655395::1::::<><>::
+MouseTrapLogo.png::CompressedTexture2D::4286192130164420662::1698557594::1698655395::1::::<><>::
+MouseTrapLogoColored.png::CompressedTexture2D::762938789733339425::1698557594::1698655395::1::::<><>::
+MouseTrapLogoShadow.png::CompressedTexture2D::970728371229412725::1698557594::1698655395::1::::<><>::
+notebackground.png::CompressedTexture2D::4343497539225417676::1698557594::1698655395::1::::<><>::
+PlaceholderIcon.png::CompressedTexture2D::2864018101357103652::1698557594::1698655395::1::::<><>::
+Rattos.webp::CompressedTexture2D::4355794586459571732::1698557594::1698655395::1::::<><>::
+RatTrapIcon.png::CompressedTexture2D::3971333396001045114::1698557594::1698655395::1::::<><>::
+rounded.png::CompressedTexture2D::3707587541916526595::1698557594::1698655395::1::::<><>::
+::res://sprites/logos/::1698655395
+AppIcon.png::CompressedTexture2D::6061747524622538181::1698557594::1698655395::1::::<><>::
+AppIconTrueScale.png::CompressedTexture2D::5855619588890539638::1698557594::1698655395::1::::<><>::
+DiscordLogo-export.png::CompressedTexture2D::2717278318345312649::1698557594::1698655395::1::::<><>::
+DiscordLogo.png::CompressedTexture2D::8009120256477162816::1698557594::1698655395::1::::<><>::
+icons.png::CompressedTexture2D::5718953721788440845::1698557594::1698655395::1::::<><>::
+RatTrapHorizontal.png::CompressedTexture2D::2255507672822041924::1698557594::1698655395::1::::<><>::
+RatTrapNote.png::CompressedTexture2D::6678200774598053211::1698557594::1698655395::1::::<><>::
+RatTrapText.png::CompressedTexture2D::3395548639544421951::1698557594::1698655395::1::::<><>::
+RatTrapVertical.png::CompressedTexture2D::5949290106335492887::1698557594::1698655395::1::::<><>::
+::res://sprites/placeholders/::1698655395
+arrow.png::CompressedTexture2D::2972392631307313751::1698557594::1698655395::1::::<><>::
+folder.png::CompressedTexture2D::1874341304643512202::1698557594::1698655395::1::::<><>::
+RatTrap.png::CompressedTexture2D::3643150573945627003::1698557594::1698655395::1::::<><>::
